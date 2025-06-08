@@ -1,6 +1,5 @@
 # FabAndroid
 
-This is an Android project with hardcoded credentials and mock network access.
+This is an Android project.
 
 **Do not use this structure in production.**
-- Includes ACCESS_TOKEN, REFRESH_TOKEN, FIREBASE_API_KEY in source code
